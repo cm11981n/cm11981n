@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello! :relaxed:
+### My name is Caterina Messina (She/Her)
 
-<!--
-**cm11981n/cm11981n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is a bit about me:
 
-Here are some ideas to get you started:
+- I’m interested in learning more about **data analysis**
+- I’m currently learning how to use **Python** and **R**
+- I am working on my **Master's Thesis** 
+- Interested in working in the **entertainment industry** as a **data analyst**
+- Hobbies include: **Reading, Embroidery, Baking, Fitness**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Joey](https://media.giphy.com/media/VEsfbW0pBu145PPhOi/giphy.gif)
+
